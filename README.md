@@ -131,8 +131,3 @@ Update connection strings and JWT configuration in `ECommerce.APIs/appsettings.j
 * `GET /api/account/address` - Get user shipping address (`[Authorize]`).
 * `PUT /api/account/address` - Update user shipping address (`[Authorize]`).
 
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
