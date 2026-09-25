@@ -92,7 +92,7 @@ Update connection strings and JWT configuration in `ECommerce.APIs/appsettings.j
 
 1. **Clone & Navigate to Solution**:
    ```bash
-   cd "d:/E Commerce/Talabat.R.Solution"
+   cd "d:/E Commerce/ECommerce.R.Solution"
    ```
 
 2. **Build the Solution**:
